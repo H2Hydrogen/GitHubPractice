@@ -2,4 +2,4 @@
 
 ## GitHub Practice Repositories
 
-This is my GitHub practice repository
+This is my GitHub practice repository（Thinking.
